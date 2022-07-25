@@ -1,2 +1,7 @@
 GIT SUCCESSFUL
-woods good end
+<<<<<<< HEAD
+woods
+=======
+woods silence
+no end
+>>>>>>> feature1
